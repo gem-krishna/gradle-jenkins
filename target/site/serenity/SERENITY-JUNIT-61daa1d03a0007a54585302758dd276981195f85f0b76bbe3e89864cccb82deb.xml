@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Google Search" skipped="0" tests="1" time="16.32" timestamp="2025-07-23 10:07:15"><testcase name="Search for something on Google"><failure message="expected: &lt;true&gt; but was: &lt;false&gt;" type="org.opentest4j.AssertionFailedError">expected: &lt;true&gt; but was: &lt;false&gt;</failure><system-err>expected: &lt;true&gt; but was: &lt;false&gt;&#13;
+stepdefinitions.SampleStepDefinitions.i_should_see_results_containing(SampleStepDefinitions.java:29)&#13;
+✽.I should see results containing "Serenity"(file:///C:/Users/Krishna.Agrawal/IdeaProjects/test-jenkins/src/test/resources/features/sample.feature:6)&#13;
+</system-err></testcase></testsuite>
